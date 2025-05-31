@@ -2,7 +2,7 @@
 require 'functions.php';
 
 // Check if the admin parameter is set
-if (isset($_GET['admin']) && $_GET['admin'] == '7316439041') { // your admin id
+if (isset($_GET['admin']) && $_GET['admin'] == '7413764007') { // your admin id
     header("Location: admin.php");
     exit;
 }

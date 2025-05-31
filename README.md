@@ -1,6 +1,6 @@
 # 🚀 Watch Ads Earn Money Bot
 
-Welcome to the **Watch Ads Earn Money** bot! This bot allows users to earn money by watching ads. Currently in beta, we welcome your feedback and contributions.
+Welcome to the **WatchAds EarnMoney** bot! This bot allows users to earn money by watching ads. Currently in beta, we welcome your feedback and contributions.
 
 ## 🌟 Features
 
@@ -22,7 +22,7 @@ Welcome to the **Watch Ads Earn Money** bot! This bot allows users to earn money
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/ProKaiiddo/-Watch-Ads-Earn-Money-Bot
+   git clone https://github.com/CrazyCoderBd-007/WatchAds-EarnMoney-Bot
 
 
 2. **Admin Dashboard**:
@@ -31,4 +31,4 @@ Welcome to the **Watch Ads Earn Money** bot! This bot allows users to earn money
 
 3 **User Dashboard**:
    ```bash
-   https://www.example.com/?id=7572521806
+   https://www.example.com/?id=7413764007

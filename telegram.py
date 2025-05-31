@@ -15,12 +15,12 @@ keyboard = [
 bot.sendMessage(
     chat_id=message.chat.id,
     text=(
-        "<b>👋 Welcome to the <u>Ultimate Ad-Watching Bot</u>!</b>\n\n"
+        "<b>👋 Welcome to the Ultimate Ad-Watching Bot!</b>\n\n"
         "💸 <i>Earn real rewards by watching short ads</i>\n"
         "⚡ <i>Instant credits, no waiting!</i>\n"
         "🎯 <b>Your time = Your money!</b>\n\n"
         "<u>🔥 Don't miss out on free earnings. Click below to start now!</u>\n\n"
-        "<i>👨‍💻 Developed by</i> <b>@Kaiiddo</b>"
+        "<i>👨‍💻 Developed by</i> <b>@crazycoderbd007</b>"
     ),
     parse_mode="HTML",
     reply_markup={"inline_keyboard": keyboard}
